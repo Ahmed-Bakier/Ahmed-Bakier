@@ -1,7 +1,7 @@
 ### Hi there! I'm Ahmed Mostafa Bakier 👋
 
 <div align="center">
-  <img alt="Coder GIF" height="250" width="350" src="https://magiccopy.xyz/assets/images/hadder.gif" />
+  <img alt="Coder GIF" height="250" width="350" src="dev_gif.gif" />
 </div>
 
 **Computer Engineering Student | Software Developer | Tech Enthusiast**
